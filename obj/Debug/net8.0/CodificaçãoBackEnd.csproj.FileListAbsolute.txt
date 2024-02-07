@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\CodificaçãoBackEnd\bin\Debug\net8.0\CodificaçãoBackEnd.exe
+C:\Users\user\Desktop\CodificaçãoBackEnd\bin\Debug\net8.0\CodificaçãoBackEnd.deps.json
+C:\Users\user\Desktop\CodificaçãoBackEnd\bin\Debug\net8.0\CodificaçãoBackEnd.runtimeconfig.json
+C:\Users\user\Desktop\CodificaçãoBackEnd\bin\Debug\net8.0\CodificaçãoBackEnd.dll
+C:\Users\user\Desktop\CodificaçãoBackEnd\bin\Debug\net8.0\CodificaçãoBackEnd.pdb
+C:\Users\user\Desktop\CodificaçãoBackEnd\obj\Debug\net8.0\CodificaçãoBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CodificaçãoBackEnd\obj\Debug\net8.0\CodificaçãoBackEnd.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CodificaçãoBackEnd\obj\Debug\net8.0\CodificaçãoBackEnd.AssemblyInfo.cs
+C:\Users\user\Desktop\CodificaçãoBackEnd\obj\Debug\net8.0\CodificaçãoBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CodificaçãoBackEnd\obj\Debug\net8.0\CodificaçãoBackEnd.dll
+C:\Users\user\Desktop\CodificaçãoBackEnd\obj\Debug\net8.0\refint\CodificaçãoBackEnd.dll
+C:\Users\user\Desktop\CodificaçãoBackEnd\obj\Debug\net8.0\CodificaçãoBackEnd.pdb
+C:\Users\user\Desktop\CodificaçãoBackEnd\obj\Debug\net8.0\CodificaçãoBackEnd.genruntimeconfig.cache
+C:\Users\user\Desktop\CodificaçãoBackEnd\obj\Debug\net8.0\ref\CodificaçãoBackEnd.dll
